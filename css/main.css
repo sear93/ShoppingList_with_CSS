@@ -69,6 +69,10 @@ body {
   border-width: 5px 0;
 }
 
+.list ul li:active {
+  background-color: #EB7D7D;
+}
+
 .list ul li label {
   font-size: 18px;
   display: block;
